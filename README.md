@@ -2,4 +2,4 @@
 **What we learned today?**
 * Markdown
 * Visual Code
-* Comand line interface
+* Command Line Interface
