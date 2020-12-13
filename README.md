@@ -1,2 +1,2 @@
 # reading-notes
-**## What we learned today?**
+**What we learned today?**
