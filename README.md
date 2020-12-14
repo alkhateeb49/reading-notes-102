@@ -3,7 +3,7 @@
 
 
 # Mohamad Alkhateeb
-Software enginner 
+Software Enginner
 Php Developer
 
 ## About me
