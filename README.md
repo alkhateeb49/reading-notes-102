@@ -19,8 +19,3 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 - [Day1](#)
 - [Day2](#)
 - [Day3](#)
-
-
-
-
-
