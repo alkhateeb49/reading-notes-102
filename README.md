@@ -16,6 +16,6 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 
 ## Table of content
 
-- [Day1](#)
+- [Read04](https://alkhateeb49.github.io/reading-notes/read04.html)
 - [Day2](#)
 - [Day3](#)
