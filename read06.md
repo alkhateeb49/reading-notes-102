@@ -1,5 +1,5 @@
 
-![CSS](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
+![Java](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
 
 
 # Day4
