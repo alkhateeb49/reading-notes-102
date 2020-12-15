@@ -17,7 +17,7 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 ## Table of content
 
 - [Read04](https://alkhateeb49.github.io/reading-notes/read04.md)
-- [Lab04](https://alkhateeb49.github.io/reading-notes/index.html)
+- [Lab04](https://alkhateeb49.github.io/reading-notes/labindex.html)
 - [Read05](https://alkhateeb49.github.io/reading-notes/read05.md)
 - [Lab05](https://alkhateeb49.github.io/reading-notes/lab05.html)
 - [Read05](https://alkhateeb49.github.io/reading-notes/read06.md)
