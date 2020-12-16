@@ -1,4 +1,5 @@
 # Read8
+![JavaScript](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
 
 **This is what I leanred in class 102_08:**
 
@@ -16,9 +17,9 @@
     * Strict not equal (**!==**)
 
 2. Logical operators:
-    * and (**&&**)
-    * or (**|**)
-    * not (**!**)
+    * and
+    * or
+    * not
 
 3. The decision-making process has two components:
     * An expression that returns a value.
