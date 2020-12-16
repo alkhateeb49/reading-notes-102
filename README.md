@@ -16,9 +16,10 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 
 ## Table of content
 
+- [Read01](https://alkhateeb49.github.io/reading-notes/read01)
+- [Read02](https://alkhateeb49.github.io/reading-notes/read02)
 - [Read03](https://alkhateeb49.github.io/reading-notes/read03)
 - [Read04](https://alkhateeb49.github.io/reading-notes/read04)
-- [Lab04](https://alkhateeb49.github.io/reading-notes/labindex.html)
 - [Read05](https://alkhateeb49.github.io/reading-notes/read05)
-- [Lab05](https://alkhateeb49.github.io/HTML/)
 - [Read06](https://alkhateeb49.github.io/reading-notes/read06b)
+- [Read07](https://alkhateeb49.github.io/reading-notes/read07)
