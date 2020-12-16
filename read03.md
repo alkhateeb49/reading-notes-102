@@ -13,3 +13,11 @@
   1. The actual files in your local pc, Here you intended to upload these files on Github. Use **git add .**
   2. Then you need to mark the changes that you did and make the code ready to be pushed to Github. Use **git -m "The message you want"**
   3. After that we need to push the code to Github (upload it). Use **git push origin main**
+
+
+## Table of content
+
+- [Read01](https://alkhateeb49.github.io/reading-notes/read01)
+- [Read02](https://alkhateeb49.github.io/reading-notes/read02)
+- [Read03](https://alkhateeb49.github.io/reading-notes/read03)
+- [Read04](https://alkhateeb49.github.io/reading-notes/read04)
