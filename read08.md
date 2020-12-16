@@ -17,7 +17,7 @@
 
 2. Logical operators:
     * and (**&&**)
-    * or (**double |**)
+    * or (**|**)
     * not (**!**)
 
 3. The decision-making process has two components:
