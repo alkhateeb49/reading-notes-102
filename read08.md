@@ -1,9 +1,6 @@
 # Read8
 ![JavaScript](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
 
-**This is what I leanred in class 102_08:**
-
-
 * We learned in class 8:
 
 1. Comparison operators:
