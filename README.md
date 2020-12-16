@@ -23,3 +23,4 @@ As man carries multi background in multiple fields Programming,  I’m proficien
 - [Read05](https://alkhateeb49.github.io/reading-notes/read05)
 - [Read06](https://alkhateeb49.github.io/reading-notes/read06b)
 - [Read07](https://alkhateeb49.github.io/reading-notes/read07)
+- [Read08](https://alkhateeb49.github.io/reading-notes/read08)
